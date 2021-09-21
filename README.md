@@ -37,7 +37,6 @@ Having worked both with and for some of Brazil and Australia’s largest and mos
 - AWS Certified Solutions Architect – Professional
 - MCSA Certified
 - ITIL v3 certified
-- Satisfactory networking understanding (TCP/IP, DNS, routing, firewalls, etc.)
 - Quick to learn and fast to adapt to changing environments
 
 ## Academic Curriculum
