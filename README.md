@@ -107,7 +107,7 @@ Having worked both with and for some of Brazil and Australia’s largest and mos
 
 <b>Site Reliability Engineer</b>
 
-[March 2020 - Jan 2021] 10 mounths
+[March 2020 - Jan 2021] 10 months
 
 Responsible to ensure the systems are healthy, automated, monitored, and scalable.
 
