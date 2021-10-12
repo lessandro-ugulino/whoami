@@ -22,6 +22,7 @@ Having worked both with and for some of Brazil and Australia’s largest and mos
 - [Current Aspirations](#Current-aspirations)
 - [Hobbies](#hobbies)
 - [Professional Experience](#professional-experience)
+  - [Culture Amp](#culture-amp)
   - [Ticketek](#Ticketek)
   - [Cloudten](#C10)
   - [FullServices](#FullServices)
@@ -32,7 +33,6 @@ Having worked both with and for some of Brazil and Australia’s largest and mos
 
 ## Introduction
 
-- A foreign immigrant from Brazil, Australian permanent resident.
 - Diploma in Network Computer
 - AWS Certified Solutions Architect – Professional
 - MCSA Certified
@@ -45,15 +45,15 @@ Having worked both with and for some of Brazil and Australia’s largest and mos
 
 ### Courses
 
-- Introduction to Computational Thinking and Data Science (in progress) - <a href="https://www.mit.edu">MIT</a>
-- Introduction to Computer Science and Programming Using Python (in progress) - <a href="https://www.mit.edu">MIT</a>
+- Introduction to Computational Thinking and Data Science - <a href="https://www.mit.edu">MIT</a>
+- Introduction to Computer Science and Programming Using Python - <a href="https://www.mit.edu">MIT</a>
 
 ## Industry Certifications
 
 ### Amazon Web Services
 
-- AWS Certified Solutions Architect - Associate
 - AWS Certified Solutions Architect - Professional
+- AWS Certified Solutions Architect - Associate
 
 ### Microsoft
 
@@ -74,9 +74,8 @@ Having worked both with and for some of Brazil and Australia’s largest and mos
 
 ## Recent Learnings
 
-- Docker
-  - Swarm
-  - kubernetes
+- Docker Swarm
+- kubernetes
 - Python
 
 ## Current Aspirations
@@ -95,6 +94,7 @@ Having worked both with and for some of Brazil and Australia’s largest and mos
 
 ## Professional Experience
 
+- [Culture Amp](#Ticketek)
 - [Ticketek](#Ticketek)
 - [Cloudten](#C10)
 - [FullServices](#FullServices)
@@ -103,9 +103,18 @@ Having worked both with and for some of Brazil and Australia’s largest and mos
 - [Goldnet](#Goldnet)
 - [Dimep](#Dimep)
 
+### <a href="https://www.cultureamp.com/">Culture Amp</a>
+
+<b>Senior System Engineer</b>
+
+[May 2021 - Current]
+
+- Responsible to scale and mature the technology ecosystem.
+- Responsible to automate AWS Deployment.
+
 ### <a href="https://premier.ticketek.com.au">Ticketek</a>
 
-<b>Site Reliability Engineer</b>
+<b>Senior SRE</b>
 
 [March 2020 - Jan 2021] 10 months
 
@@ -117,12 +126,10 @@ Responsible to ensure the systems are healthy, automated, monitored, and scalabl
 - Create and maintain documentation of systems and processes for existing and new systems;
 - Support production environments including Linux, IIS, .NET, Windows Servers, and AWS;
 - Coordinate changes with application owners to ensure minimal user impact;
-- Leverage automation tools, especially CloudFormation and Ansible, in order to decrease end-to-end deployment times, reduce downtime, and increase reliability;
-- Share knowledge between my team as well as with other members from a different location.
 
 ### <a href="https://www.cloudten.com.au/">CloudTen</a>
 
-<b>AWS Cloud Engineer</b>
+<b>Senior Cloud Engineer</b>
 
 [June 2016 - March 2020] 3yrs 9m
 
@@ -131,8 +138,6 @@ Sr. AWS Cloud engineer for Cloudten Industries across government and enterprise 
 - Automation of AWS resources such as TGW, VPC, Subnets, route table, security group, EC2 via Terraform, and AWS CloudFormation;
 - Work with strategic customers as an advisory architect and developer on engineering solutions of significant scale/volume/complexity on AWS.
 - Develop tools to deploy, manage, monitor, and troubleshoot cloud-based systems on or off-premises
-- Mentor and develop junior team members on Cloud Technologies.
-- Develop, maintain, and provide technical expertise in order to transfer knowledge, information to clients and service providers.
 
   #### Main Project
 
@@ -179,8 +184,6 @@ Worked closely with clients to analyses IT system requirements, client’s infor
 - Provide software development consulting services for Public Sector and Banking customers;
 - Collaborate with engineers or software developers to select appropriate design solutions or ensure the compatibility of system components;
 - Writing, updating, and maintaining technical tutorials;
-- Resolution of technical problems and issues;
-- Support the Helpdesk team.
 
 ### <a href="https://www.2s.com.br/">2S</a>
 
@@ -194,8 +197,6 @@ Responsible for:
 - Microsoft projects as MS System Center, MS Active Directory, MS Windows Server, among other projects for big and middle-sized companies;
 - Writing, updating, and maintaining technical tutorials;
 - Repairing and replacing peripheral equipment such as terminals, printers, and modems;
-- Resolution of technical problems and issues;
-- Support the Helpdesk team.
 
 ### <a href="http://www.softcorp.com.br/">Softcorp</a>
 
@@ -208,8 +209,6 @@ Installation, configuration, and deployment of SCCM 2007 and SCCM 2012 for imagi
 - Responsible for providing 1st level / 2nd level/ 3rd level support to end-users in troubleshooting and resolving PC/Server problems;
 - Develop as well as implement application test plans, including both integration and full system test plan;
 - Implemented solution to eliminate duplicate SCCM GUID's thus creating client stability and integrity;
-- Migration of environment from a SCCM 2012 SP1 site to a SCCM 2012 R2 site in a new Active Directory forest;
-- Communicated issues, resolutions and project status to IT management and user community and ensured the deadlines were met, but more importantly quality was delivered.
 
 ### <a href="http://www.goldnet.com.br/">Goldnet</a>
 
@@ -225,8 +224,6 @@ Performed first level problem determination using automated Helpdesk software to
 - Writing, updating and maintaining technical tutorials;
 - Repairing and replacing peripheral equipment such as terminals, printers and modems;
 - Installing and downloading appropriate software;
-- Trained System Users on-site to troubleshoot various technical issues and adjust system processes;
-- Participated in a project with a small team to install Windows 7 on 500+ company computers and provided necessary.
 
 ### <a href="https://www.dimep.com.br/">Dimep</a>
 
@@ -239,5 +236,3 @@ Responsible for coordinating with staff and handling new account creations, syst
 - Performed Active Directory user management;
 - Created and performed computer imaging using Windows Deployment Services;
 - Trained and assisted business users in the use of company's software;
-- Computer hardware repairing and upgrades;
-- Tasked with monitoring, organizing and editing help desk tickets in trouble ticket system.
