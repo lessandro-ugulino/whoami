@@ -16,7 +16,7 @@ Having worked both with and for some of Brazil and Australia’s largest and mos
   - [Amazon Web Services](#amazon-web-services)
   - [Microsoft](#Microsoft)
   - [AXELOS](#AXELOS)
-- [Personal projects](#personal_projects)
+- [Personal projects](#personal-projects)
 - [Hobbies](#hobbies)
 - [Professional Experience](#professional-experience)
   - [Culture Amp](#culture-amp)
