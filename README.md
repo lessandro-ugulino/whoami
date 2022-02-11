@@ -11,15 +11,12 @@ Having worked both with and for some of Brazil and Australia’s largest and mos
 
 ## Index
 
-- [Introduction](#introduction)
 - [Academic Curriculum](#academic-curriculum)
-  - [Courses](#courses)
 - [Industry Certifications](#industry-certifications)
   - [Amazon Web Services](#amazon-web-services)
   - [Microsoft](#Microsoft)
   - [AXELOS](#AXELOS)
-- [Recent Learnings](#recent-learnings)
-- [Current Aspirations](#Current-aspirations)
+- [Personal projects](#personal_projects)
 - [Hobbies](#hobbies)
 - [Professional Experience](#professional-experience)
   - [Culture Amp](#culture-amp)
@@ -31,22 +28,9 @@ Having worked both with and for some of Brazil and Australia’s largest and mos
   - [Goldnet](#Goldnet)
   - [Dimep](#Dimep)
 
-## Introduction
-
-- Diploma in Network Computer
-- AWS Certified Solutions Architect – Professional
-- MCSA Certified
-- ITIL v3 certified
-- Quick to learn and fast to adapt to changing environments
-
 ## Academic Curriculum
 
 - Diploma in Network Computer - <a href="https://www.unifaccamp.edu.br/">UNIFACCAMP</a>
-
-### Courses
-
-- Introduction to Computational Thinking and Data Science - <a href="https://www.mit.edu">MIT</a>
-- Introduction to Computer Science and Programming Using Python - <a href="https://www.mit.edu">MIT</a>
 
 ## Industry Certifications
 
@@ -72,16 +56,15 @@ Having worked both with and for some of Brazil and Australia’s largest and mos
 
 - ITIL v3 Foundation
 
-## Recent Learnings
+## Personal projects
 
-- Docker Swarm
-- kubernetes
-- Python
-
-## Current Aspirations
-
-- Work more with people and impact on other lives
-- Automate everything
+- <a href="https://github.com/lessandro-ugulino/cluster-k8s-rpi">Cluster K8s on RPi</a>
+- <a href="https://github.com/lessandro-ugulino/aws-fargate-jenkins">Jenkins on AWS Fargate</a>
+- <a href="https://github.com/lessandro-ugulino/backend-api-getBooks-automation">Ansible Automation: Backend API Get Books</a>
+- <a href="https://github.com/lessandro-ugulino/vagrant-k8s-ingress-nginx-automation">Ansible Automation: K8s Nginx Ingress</a>
+- <a href="https://github.com/lessandro-ugulino/k8s-nginx-ingress-wordpress">Terraform Automation: K8s Nginx Ingress Wordpress</a>
+- <a href="https://github.com/lessandro-ugulino/ec2-docker-swarm-automation">Ansible Automation: EC2 Docker Swarm</a>
+- <a href="https://github.com/lessandro-ugulino/vagrant-docker-swarm-automation">Ansible Automation: Vagrant Docker Swarm</a>
 
 ## Hobbies
 
