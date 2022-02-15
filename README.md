@@ -59,7 +59,8 @@ Having worked both with and for some of Brazil and Australia’s largest and mos
 ## Personal projects
 
 - <a href="https://github.com/lessandro-ugulino/cluster-k8s-rpi">Cluster K8s on RPi</a>
-- <a href="https://github.com/lessandro-ugulino/aws-fargate-jenkins">Jenkins on AWS Fargate</a>
+- <a href="https://github.com/lessandro-ugulino/grafana-prometheus-for-fargate">Ansible Automation: Grafana & Prometheus for AWS Fargate</a>
+- <a href="https://github.com/lessandro-ugulino/aws-fargate-jenkins">Ansible Automation: Jenkins on AWS Fargate</a>
 - <a href="https://github.com/lessandro-ugulino/backend-api-getBooks-automation">Ansible Automation: Backend API Get Books</a>
 - <a href="https://github.com/lessandro-ugulino/vagrant-k8s-ingress-nginx-automation">Ansible Automation: K8s Nginx Ingress</a>
 - <a href="https://github.com/lessandro-ugulino/k8s-nginx-ingress-wordpress">Terraform Automation: K8s Nginx Ingress Wordpress</a>
