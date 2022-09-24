@@ -34,6 +34,10 @@ Having worked both with and for some of Brazil and Australia’s largest and mos
 
 ## Industry Certifications
 
+### Red Hat
+
+- Red Hat Certified System Administrator (RHCSA)
+
 ### Amazon Web Services
 
 - AWS Certified Solutions Architect - Professional
