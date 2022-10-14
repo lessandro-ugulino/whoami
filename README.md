@@ -93,7 +93,7 @@ Having worked both with and for some of Brazil and Australia’s largest and mos
 
 ### <a href="https://www.cultureamp.com/">Culture Amp</a>
 
-<b>Senior System Engineer</b>
+<b>Sr. Cloud Engineer</b>
 
 [May 2021 - Current]
 
