@@ -97,8 +97,12 @@ Having worked both with and for some of Brazil and Australia’s largest and mos
 
 [May 2021 - Current]
 
-- Responsible to scale and mature the technology ecosystem.
-- Responsible to automate AWS Deployment.
+- Operate the Managed Service platform and collaborate with internal service teams to meet our customers' individual needs for their infrastructure and application deployments.
+- Create a self-service portal via Jenkins to deploy DevOps tools to help our internal development team, such as ec2_scheduled, report_volumes_unused and launch_ec2_instance.
+- Build a CI automation via Ansible, CloudFormation, Jinja templates and Bash script. Where it’s being used to deploy infrastructure resources, such as VPCs, ECS cluster, SMS maintenance Window, TGW, an entire WS Radius deployment (100% auto healing project via ASG, LB and user-data), etc.
+- Deploy Grafana & Prometheus and Pushgateway via automantion (CFN, Ansible and Jinja templates) to monitor our services
+- Keep Operation System updates through AWS Patch manager
+- Help build and maintain CloudFormation templates, Terraform and Ansible to automate and deploy AWS resources and configuration changes.
 
 ### <a href="https://premier.ticketek.com.au">Ticketek</a>
 
