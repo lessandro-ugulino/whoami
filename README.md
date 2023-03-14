@@ -1,8 +1,8 @@
 #### Lessandro Z. Ugulino
 
-Over twelve years of industry experience in large, technically complex environments, with exposure to a diverse array of products and platforms, predominantly in the area of infrastructure, security and cloud technologies.
+I bring forth a wide range of experience across cloud engineering, bringing forth more than 11 years of knowledge and expertise working within rather complex and technical capacities towards a common goal.
 
-Having worked both with and for some of Brazil and Australia’s largest and most respected companies, in the fields of transport, telecommunications, government, healthcare, and commodity, I have developed an extensive skill set and gained a deep insight into the processes and methodologies employed in enterprise architecture.
+I have amassed a strong academic record where I am a Pro AWS Solutions Architect , Red Hat Certified Systems Administrator as well as MCSA , and ITIL v3 Certified Professional which will render me an asset to your team.
 
 - Website: [lessandro.ugulino.com](https://lessandro.ugulino.com/)
 - Linkedin: [linkedin.com/in/lezampieri/](https://www.linkedin.com/in/lezampieri/)
@@ -119,7 +119,7 @@ Responsible to ensure the systems are healthy, automated, monitored, and scalabl
 - Support production environments including Linux, IIS, .NET, Windows Servers, and AWS;
 - Coordinate changes with application owners to ensure minimal user impact;
 
-### <a href="https://www.cloudten.com.au/">CloudTen</a>
+### <a href="https://cybercx.com.au/about-cybercx/cloudten/">CloudTen</a>
 
 <b>Senior Cloud Engineer</b>
 
