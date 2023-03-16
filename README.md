@@ -62,6 +62,7 @@ I have amassed a strong academic record where I am a Pro AWS Solutions Architect
 
 ## Personal projects
 
+- <a href="https://github.com/lessandro-ugulino/py3_googleanalytics_exporter">Python3 - Exporter Google Analytics v4</a>
 - <a href="https://github.com/lessandro-ugulino/cluster-k8s-rpi">Cluster K8s on RPi</a>
 - <a href="https://github.com/lessandro-ugulino/grafana-prometheus-for-fargate">Ansible Automation: Grafana & Prometheus for AWS Fargate</a>
 - <a href="https://github.com/lessandro-ugulino/aws-fargate-jenkins">Ansible Automation: Jenkins on AWS Fargate</a>
