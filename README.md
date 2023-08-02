@@ -1,6 +1,6 @@
 #### Lessandro Z. Ugulino
 
-I bring forth a wide range of experience across cloud engineering, bringing forth more than 11 years of knowledge and expertise working within rather complex and technical capacities towards a common goal.
+I bring forth a wide range of experience across cloud engineering, bringing forth more than 14 years of knowledge and expertise working within rather complex and technical capacities towards a common goal.
 
 I have amassed a strong academic record where I am a Pro AWS Solutions Architect , Red Hat Certified Systems Administrator as well as MCSA , and ITIL v3 Certified Professional which will render me an asset to your team.
 
@@ -19,6 +19,7 @@ I have amassed a strong academic record where I am a Pro AWS Solutions Architect
 - [Personal projects](#personal-projects)
 - [Hobbies](#hobbies)
 - [Professional Experience](#professional-experience)
+  - [Rackspace](#rackspace)
   - [Culture Amp](#culture-amp)
   - [Ticketek](#Ticketek)
   - [Cloudten](#C10)
@@ -34,6 +35,9 @@ I have amassed a strong academic record where I am a Pro AWS Solutions Architect
 
 ## Industry Certifications
 
+### Linux Foundation
+
+- Certified Kubernetes Administrator (CKA)
 ### Red Hat
 
 - Red Hat Certified System Administrator (RHCSA)
@@ -42,6 +46,7 @@ I have amassed a strong academic record where I am a Pro AWS Solutions Architect
 
 - AWS Certified Solutions Architect - Professional
 - AWS Certified Solutions Architect - Associate
+- AWS Certified Developer - Associate
 
 ### Microsoft
 
@@ -83,7 +88,9 @@ I have amassed a strong academic record where I am a Pro AWS Solutions Architect
 
 ## Professional Experience
 
-- [Culture Amp](#Ticketek)
+
+- [Rackspace](#rackspace)
+- [Culture Amp](#culture-amp)
 - [Ticketek](#Ticketek)
 - [Cloudten](#C10)
 - [FullServices](#FullServices)
@@ -92,11 +99,17 @@ I have amassed a strong academic record where I am a Pro AWS Solutions Architect
 - [Goldnet](#Goldnet)
 - [Dimep](#Dimep)
 
+### <a href="https://www.rackspace.com/en-au/">Rackspace</a>
+
+<b>Sr. Cloud Engineer</b>
+
+[Jun 2023 - Current]
+
 ### <a href="https://www.cultureamp.com/">Culture Amp</a>
 
 <b>Sr. Cloud Engineer</b>
 
-[May 2021 - Current]
+[May 2021 - Jun 2023] 2 years
 
 - Operate the Managed Service platform and collaborate with internal service teams to meet our customers' individual needs for their infrastructure and application deployments.
 - Create a self-service portal via Jenkins to deploy DevOps tools to help our internal development team, such as ec2_scheduled, report_volumes_unused and launch_ec2_instance.
