@@ -44,6 +44,7 @@ I have amassed a strong academic record where I am a Pro AWS Solutions Architect
 
 ### Amazon Web Services
 
+- AWS Certified DevOps Engineer - Professional
 - AWS Certified Solutions Architect - Professional
 - AWS Certified Solutions Architect - Associate
 - AWS Certified Developer - Associate
