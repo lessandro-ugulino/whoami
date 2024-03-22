@@ -23,7 +23,6 @@ I have amassed a strong academic record where I am a CKS and CKA certified, Pro 
   - [Culture Amp](#culture-amp)
   - [Ticketek](#Ticketek)
   - [Cloudten](#C10)
-  - [FullServices](#FullServices)
   - [2S](#2S)
   - [Softcorp](#Softcorp)
   - [Goldnet](#Goldnet)
