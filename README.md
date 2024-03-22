@@ -2,11 +2,11 @@
 
 I bring forth a wide range of experience across cloud engineering, bringing forth more than 14 years of knowledge and expertise working within rather complex and technical capacities towards a common goal.
 
-I have amassed a strong academic record where I am a Pro AWS Solutions Architect , Red Hat Certified Systems Administrator as well as MCSA , and ITIL v3 Certified Professional which will render me an asset to your team.
+I have amassed a strong academic record where I am a CKS and CKA certified, Pro AWS Solutions Architect, Red Hat Certified Systems Administrator as well as MCSA, and ITIL v3 Certified Professional.
 
 - Website: [lessandro.ugulino.com](https://lessandro.ugulino.com/)
 - Linkedin: [linkedin.com/in/lezampieri/](https://www.linkedin.com/in/lezampieri/)
-- Email: lessandro.ugulino@outlook.com
+- Email: lessandro.ugulino@gmail.com
 - Blog: [Medium](https://medium.com/@lessandro.ugulino)
 
 ## Index
@@ -31,13 +31,15 @@ I have amassed a strong academic record where I am a Pro AWS Solutions Architect
 
 ## Academic Curriculum
 
-- Diploma in Network Computer - <a href="https://www.unifaccamp.edu.br/">UNIFACCAMP</a>
+- Diploma in Network Computer - UNIFACCAMP
 
 ## Industry Certifications
 
 ### Linux Foundation
 
 - Certified Kubernetes Administrator (CKA)
+- Certified Kubernetes Security Specialist (CKS)
+
 ### Red Hat
 
 - Red Hat Certified System Administrator (RHCSA)
@@ -51,6 +53,7 @@ I have amassed a strong academic record where I am a Pro AWS Solutions Architect
 
 ### Microsoft
 
+- AZ-104: Azure Administrator Associate
 - Microsoft® Certified Solutions Associate: Windows Server 2016
 - Microsoft® Certified Solutions Associate: Windows Server 2012
 - Microsoft Certified Professional: Microsoft Certified Professional
@@ -80,21 +83,19 @@ I have amassed a strong academic record where I am a Pro AWS Solutions Architect
 
 ## Hobbies
 
-- Brazilian jiu-jitsu
+- Running
+- Boxing
 - Puzzles
 - TV shows and movies
 - Audiobooks
 - Reading (Kindle)
-- Practicing sports (running / gym)
 
 ## Professional Experience
-
 
 - [Rackspace](#rackspace)
 - [Culture Amp](#culture-amp)
 - [Ticketek](#Ticketek)
 - [Cloudten](#C10)
-- [FullServices](#FullServices)
 - [2S](#2S)
 - [Softcorp](#Softcorp)
 - [Goldnet](#Goldnet)
@@ -105,6 +106,18 @@ I have amassed a strong academic record where I am a Pro AWS Solutions Architect
 <b>Sr. Cloud Engineer</b>
 
 [Jun 2023 - Current]
+
+- Helping drive the development of a variety of projects for Rackspace's customers, including new development and the deployment of new cloud infrastructure and applications.
+- Creating well-designed, documented, and tested software and infrastructure solutions in AWS and Azure that meet customer requirements.
+- Writing infrastructure as code.
+- Building E2E pipelines to enable CI/CD for new and existing solutions.
+- Serving as a technical mentor to other engineers.
+- Serving as escalation for AWS and Azure environment troubleshooting.
+- Identifying and addressing bugs, deficiencies, and performance bottlenecks.
+- Participating in an agile delivery team, helping to ensure the technical quality of the features delivered across the team, including documentation, testing strategies, and code.
+- Leading and presenting technology discussions to client.
+- Helping to determine technical feasibility of solutions for business requirements.
+- Remaining up to date on emerging technologies and architecture and propose ways to use them in current and upcoming projects.
 
 ### <a href="https://www.cultureamp.com/">Culture Amp</a>
 
@@ -177,20 +190,6 @@ Sr. AWS Cloud engineer for Cloudten Industries across government and enterprise 
     - AWS VPC (Subnets, Internet Gateway, NACLS and VPC route tables)
     - AWS Transit Gateway (TGW Attachments and TGW Route tables)
     - AWS CloudFormation
-
-### <a href="http://www.fullservice-br.com.br/">FullService</a>
-
-<b>Senior Consultant</b>
-
-[October 2013 - January 2016] 2yrs 4m
-
-Worked closely with clients to analyses IT system requirements, client’s information technology needs and their resources in order to plan IT projects and fulfill client’s expectations.
-
-- Offer strong technical solution knowledge to enable Partners building new skills, in supporting partners to accelerate their sales cycle and by helping partners to design, develop and deploy customer solutions based on Microsoft Technology;
-- Orchestrate a virtual team as solution area lead focused on developing state-of-the-art Partner technical offerings;
-- Provide software development consulting services for Public Sector and Banking customers;
-- Collaborate with engineers or software developers to select appropriate design solutions or ensure the compatibility of system components;
-- Writing, updating, and maintaining technical tutorials;
 
 ### <a href="https://www.2s.com.br/">2S</a>
 
