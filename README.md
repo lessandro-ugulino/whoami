@@ -118,6 +118,145 @@ I have amassed a strong academic record where I am a CKS and CKA certified, Pro 
 - Helping to determine technical feasibility of solutions for business requirements.
 - Remaining up to date on emerging technologies and architecture and propose ways to use them in current and upcoming projects.
 
+#### Projects
+
+**<u>Consultant and Deployment of the whole Azure AKS environment to support the client’s application.</u>**
+
+#### customer:
+
+The customer is an award-winning international financial center located on Al Maryah Island in the heart of the UAE's capital city, Abu Dhabi.
+
+#### scope:
+
+•	Design and architect the Azure Kubernetes (AKS) to support the front-end and back-end of the client’s applications.
+
+•	Consultant knowledge to help the client provide the best recommendation following Microsoft best practices.
+
+•	Design the whole CI/CD pipeline using Azure DevOps.
+
+•	Documentation of the whole solution/deployment.
+
+#### skills:
+
+•	**Microsoft Azure:** AKS (Kubernetes), Azure DevOps, Container Registry, Ingress Application Gateway, Load Balancer, KeyVault, SSL Certificates, Private Endpoints, Private DNS Zone, VNet, Subnet, NSG and route tables.
+
+•	**Scripting and Development:** PowerShell, Bash and YAML.
+
+•	**Microsoft:** Windows Server
+
+•	**Linux:** Ubuntu Server
+
+#### achievements:
+
+•	Centralized location to deploy the Pipelines.
+
+•	Improved the time spent to release a new application or version.
+
+•	Centralized location to run the client’s applications.
+
+•	Security improvement to access the client’s applications.
+
+•	Centralized location to store the docker images.
+
+**<u>Consultant, Deployment, and Improvement of the Azure Security and Networking resources.</u>**
+
+#### customer:
+
+The customer is a world leader in Testing, Inspection and Certification (TIC). They assist their clients throughout the lifetime of their assets, products, and infrastructure, helping them assure quality, reduce costs, increase productivity, and foster a more responsible, sustainable culture.
+
+#### scope:
+
+•	Review the whole Azure environment following the Azure Well-Architected framework.
+
+•	Improve the security and networking of Azure resources.
+
+•	Consultant advice providing the Microsoft best practices.
+
+•	Design and architecture the Azure Kubernetes (AKS) to support the client’s applications.
+
+•	Design and architecture of the Azure Firewall to enhance the security layer.
+
+•	Documentation of the whole solution/deployment.
+
+#### skills:
+
+•	**Microsoft Azure:** : Azure Firewall, Azure Firewall Policies, AKS (Kubernetes), Azure DevOps, Container Registry, Private Endpoints, Private DNS Zone, VNet, Subnet, NSG and route tables.
+
+•	**Scripting and Development:** Bash and YAML.
+
+•	**Microsoft:** Windows Server
+
+•	**Linux:** Ubuntu Server
+
+#### achievements:
+
+•	Centralized location to deploy the Pipelines.
+
+•	Strengthen the network security posture.
+
+•	Prevent malware and viruses from spreading.
+
+•	Inspect traffic in real time.
+
+•	Improved the time spent to release a new application or version.
+
+•	Centralized location to run the client’s applications.
+
+•	Security improvement to access the client’s applications.
+
+•	Centralized location to store the docker images.
+
+•	Reduced MS Azure costs.
+
+
+**<u>Consultant, Deployment, and Improvement of AWS EC2 applications.</u>**
+
+#### customer:
+
+The customer provides best e-auction platforms where buyers and sellers of diverse goods & services, our sourcing platforms promise fair price discovery, brings in transparency and savings to the buyer.
+
+#### scope:
+
+•	Review the application performance deployed on the AWS environment.
+
+•	Proposed the solution to enhance the client’s application following the AWS best practices.
+
+•	Provide the best approach to deploy the HA with automatic failover management using Patroni, ETCD, and PostgreSQL databases.
+
+•	Set up the AWS DevOps tools (CodeCommit, CodePipeline, CodeBuild and CloudFormation) to automate the whole HA solution.
+
+•	Documentation of the whole solution/deployment
+
+#### skills:
+
+•	**AWS:** EC2, AMI, Load Balancer, ASG, Target Groups, CloudWatch Application Signals, AWS Backup, AWS DevOps tools, Parameter Store, KMS, IAM, EFS, CloudFormation, S3, VPCs, Subnet, NSG and route tables.
+
+•	**Scripting and Development:** Ansible, Bash and YAML.
+
+•	**Open Source:** Patroni, PostgreSQL and Etcd.
+
+•	**Linux:** Red Hat 7.3
+
+
+#### achievements:
+
+•	Centralized location to deploy the HA solution.
+
+•	Enabled the users to model and manage infrastructure resources in an automated and secure manner.
+
+•	Automatically instrument applications based on best practices for application performance.
+
+•	Automatic failover management.
+
+•	Automatic scaling and management of EC2 instances.
+
+•	PostgreSQL High Availability.
+
+•	Tomcat application performance improvement.
+
+•	Centralize data protection management for the application.
+
+
 ### <a href="https://www.cultureamp.com/">Culture Amp</a>
 
 <b>Sr. Cloud Engineer</b>
