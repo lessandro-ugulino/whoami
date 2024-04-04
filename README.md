@@ -46,9 +46,9 @@ I have amassed a strong academic record where I am a CKS and CKA certified, Pro 
 ### Amazon Web Services
 
 - AWS Certified DevOps Engineer - Professional
+- AWS Certified Developer - Associate
 - AWS Certified Solutions Architect - Professional
 - AWS Certified Solutions Architect - Associate
-- AWS Certified Developer - Associate
 
 ### Microsoft
 
@@ -120,7 +120,7 @@ I have amassed a strong academic record where I am a CKS and CKA certified, Pro 
 
 #### Projects
 
-**<u>Consultant and Deployment of the whole Azure AKS environment to support the client’s application.</u>**
+**<u>`Project 01:`Consultant and Deployment of the whole Azure AKS environment to support the client’s application.</u>**
 
 #### customer:
 
@@ -158,7 +158,7 @@ The customer is an award-winning international financial center located on Al Ma
 
 •	Centralized location to store the docker images.
 
-**<u>Consultant, Deployment, and Improvement of the Azure Security and Networking resources.</u>**
+**<u>`Project 02:`Consultant, Deployment, and Improvement of the Azure Security and Networking resources.</u>**
 
 #### customer:
 
@@ -209,7 +209,7 @@ The customer is a world leader in Testing, Inspection and Certification (TIC). T
 •	Reduced MS Azure costs.
 
 
-**<u>Consultant, Deployment, and Improvement of AWS EC2 applications.</u>**
+**<u>`Project 03:`Consultant, Deployment, and Improvement of AWS EC2 applications.</u>**
 
 #### customer:
 
