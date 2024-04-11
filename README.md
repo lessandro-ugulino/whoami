@@ -158,6 +158,10 @@ The customer is an award-winning international financial center located on Al Ma
 
 •	Centralized location to store the docker images.
 
+#### design:
+
+![diagram](img/design-aks.png)
+
 **<u>`Project 02:`Consultant, Deployment, and Improvement of the Azure Security and Networking resources.</u>**
 
 #### customer:
