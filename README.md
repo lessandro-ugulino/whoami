@@ -102,21 +102,28 @@ I have amassed a strong academic record where I am a CKS and CKA certified, Pro 
 
 ### <a href="https://www.rackspace.com/en-au/">Rackspace</a>
 
-<b>Sr. Cloud Engineer</b>
+<b>Sr. DevOps Engineer</b>
 
 [Jun 2023 - Current]
 
-- Helping drive the development of a variety of projects for Rackspace's customers, including new development and the deployment of new cloud infrastructure and applications.
-- Creating well-designed, documented, and tested software and infrastructure solutions in AWS and Azure that meet customer requirements.
-- Writing infrastructure as code.
-- Building E2E pipelines to enable CI/CD for new and existing solutions.
-- Serving as a technical mentor to other engineers.
-- Serving as escalation for AWS and Azure environment troubleshooting.
-- Identifying and addressing bugs, deficiencies, and performance bottlenecks.
-- Participating in an agile delivery team, helping to ensure the technical quality of the features delivered across the team, including documentation, testing strategies, and code.
-- Leading and presenting technology discussions to client.
-- Helping to determine technical feasibility of solutions for business requirements.
-- Remaining up to date on emerging technologies and architecture and propose ways to use them in current and upcoming projects.
+Working across different clients and regions such as Hong Kong, Dubai, China, India, and Australia, I’m responsible for automating infrastructure deployment, monitoring system performance, ensuring the reliability and security of applications, and collaborating between the development and IT operations teams to streamline the software delivery process.
+
+As an example, working for the customer in Dubai my responsibility was to design and deploy the whole CI/CD pipeline using the tools Azure DevOps, Private Azure AKS with self-hosted agents, Private ACR, Ingress Application Gateway, VNets, Security Groups, Azure KeyVault, ḎNS, private endpoints, etc.
+
+**Example of the Project Design** -> https://github.com/lessandro-ugulino/whoami?tab=readme-ov-file#design
+
+**Tools used for this Project** -> https://github.com/lessandro-ugulino/whoami?tab=readme-ov-file#skills
+
+Another project I got a chance to work with was for one of the Rackspace customers who provide the best e-auction platforms where buyers and sellers of diverse goods & services, our sourcing platforms promise fair price discovery, bringing transparency and savings to the buyer.
+
+Due to sensitivity data, and the organization’s compliance objectives, the AWS RDS could be used. My responsibility was to design and deploy a solution to provide High Availability for PostgreSQL using the tools ETCD, Patroni and AWS.
+
+**Example of the Project Design** -> https://github.com/lessandro-ugulino/whoami?tab=readme-ov-file#design-1
+
+**Tools used for this Project** -> https://github.com/lessandro-ugulino/whoami?tab=readme-ov-file#skills-2
+
+Also, as senior DevOps engineer, one of my roles is helping different engineers sharing my knowledge and helping them handling difficult clients.
+
 
 #### Projects
 
@@ -267,45 +274,48 @@ The customer provides best e-auction platforms where buyers and sellers of diver
 
 ### <a href="https://www.cultureamp.com/">Culture Amp</a>
 
-<b>Sr. Cloud Engineer</b>
+<b>Sr. DevOps Engineer</b>
 
 [May 2021 - Jun 2023] 2 years
 
-- Operate the Managed Service platform and collaborate with internal service teams to meet our customers' individual needs for their infrastructure and application deployments.
-- Create a self-service portal via Jenkins to deploy DevOps tools to help our internal development team, such as ec2_scheduled, report_volumes_unused and launch_ec2_instance.
-- Build a CI automation via Ansible, CloudFormation, Jinja templates and Bash script. Where it’s being used to deploy infrastructure resources, such as VPCs, ECS cluster, SMS maintenance Window, TGW, an entire WS Radius deployment (100% auto healing project via ASG, LB and user-data), etc.
-- Deploy Grafana & Prometheus and Pushgateway via automantion (CFN, Ansible and Jinja templates) to monitor our services
-- Keep Operation System updates through AWS Patch manager
-- Help build and maintain CloudFormation templates, Terraform and Ansible to automate and deploy AWS resources and configuration changes.
+As a senior DevOps Engineer, I was responsible for designing and implementing complex CI/CD pipelines and architecting scalable and resilient infrastructure using AWS CloudFormation and Terraform.
+
+During my time working for Culture AMP, we designed and deployed a self-service portal using Ansible, Python, Jenkins, PowerShell, and AWS CloudFormation to help the development and infrastructure team release and speed up the process of delivering new applications.
+
+In this portal, the engineers could launch new EC2 instances as well as AWS Lambdas using a drop-down list.
+
+**Here you can see an example of the DevOps tools available on this portal** -> https://github.com/lessandro-ugulino/devops-tools?tab=readme-ov-file#tools
+
+Apart from that, my responsibilities were evaluating new technologies, establishing best practices, optimizing cloud costs, and implementing security best practices. Also, I was leading the K8s project.
+
 
 ### <a href="https://premier.ticketek.com.au">Ticketek</a>
 
-<b>Senior SRE</b>
+<b>Senior SRE / DevOps</b>
 
 [March 2020 - Jan 2021] 10 months
 
-Responsible to ensure the systems are healthy, automated, monitored, and scalable.
+The Ticketek website during major events could receive millions of visits per day, especially during peak ticket sale periods or when highly anticipated events are announced.
 
-- Automation and orchestration of internal application and regular tasks via AWS CloudFormation, Ansible, Jinja templates, and Jenkins;
-- Deploy and monitor Amazon Web Service resources (EC2, VPC, ELB, S3, RDS, API Gateway, Lambda, etc.) using Ansible, CloudFormation, Jenkins, PowerShell, and Python following the best practices as well as security best practices;
-- Troubleshoot all mission-critical environments (Production, Stage, Dev, Test, QA);
-- Create and maintain documentation of systems and processes for existing and new systems;
-- Support production environments including Linux, IIS, .NET, Windows Servers, and AWS;
-- Coordinate changes with application owners to ensure minimal user impact;
+I was responsible for ensuring the reliability, scalability, and performance of production systems which include designing and implementing resilient architectures, establishing, and monitoring service level objectives (SLOs) and error budgets, conducting incident management and postmortems to drive continuous improvement, and automating operational tasks to minimize manual intervention.
 
-### <a href="https://cybercx.com.au/about-cybercx/cloudten/">CloudTen</a>
+I was part of a project to automate the whole production release in the UK which involved designing Continuous Integration (shared repository), Continuous Delivery (automating the software release process such as automated deployment, testing, and configuration processes) and Continuous Deployment (every change that passes automated tests is automatically deployed to production without manual intervention).
 
-<b>Senior Cloud Engineer</b>
+
+### <a href="https://cybercx.com.au/about-cybercx/cloudten/">CyberCX/Cloudten</a>
+
+<b>DevOps Engineer</b>
 
 [June 2016 - March 2020] 3yrs 9m
 
-Sr. AWS Cloud engineer for Cloudten Industries across government and enterprise organizations to deliver effective cloud solutions.
+I was responsible for helping clients implement continuous integration/ continuous deployment (CI/CD) pipelines, managing configuration management tools, and optimizing cloud infrastructure usage.
 
-- Automation of AWS resources such as TGW, VPC, Subnets, route table, security group, EC2 via Terraform, and AWS CloudFormation;
-- Work with strategic customers as an advisory architect and developer on engineering solutions of significant scale/volume/complexity on AWS.
-- Develop tools to deploy, manage, monitor, and troubleshoot cloud-based systems on or off-premises
+Also, one of my roles was leading a project involving cloud migration and collaborating with cross-functional teams to align cloud strategies with business objectives. Additionally, staying updated with the latest cloud technologies and trends to drive innovation within the organization.
 
-  #### Main Project
+**One of the projects that I can share is described here** -> https://github.com/lessandro-ugulino/whoami?tab=readme-ov-file#cloudten
+
+
+  #### Project
 
   - Gateway Rebuild Project
 
