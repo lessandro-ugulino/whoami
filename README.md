@@ -273,6 +273,9 @@ The customer provides best e-auction platforms where buyers and sellers of diver
 ![diagram](img/design-ha-postgres.png)
 
 
+![ci/cd](img/Postgres-HA.png)
+
+
 ### <a href="https://www.cultureamp.com/">Culture Amp</a>
 
 <b>Sr. DevOps Engineer</b>
