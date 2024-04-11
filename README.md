@@ -260,6 +260,10 @@ The customer provides best e-auction platforms where buyers and sellers of diver
 
 •	Centralize data protection management for the application.
 
+#### design:
+
+![diagram](img/design-ha-postgres.png)
+
 
 ### <a href="https://www.cultureamp.com/">Culture Amp</a>
 
