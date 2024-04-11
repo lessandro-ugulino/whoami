@@ -102,7 +102,7 @@ I have amassed a strong academic record where I am a CKS and CKA certified, Pro 
 
 ### <a href="https://www.rackspace.com/en-au/">Rackspace</a>
 
-<b>Sr. DevOps Engineer</b>
+<b>Sr. DevOps Engineer / Cloud Architect</b>
 
 [Jun 2023 - Current]
 
@@ -304,7 +304,7 @@ I was part of a project to automate the whole production release in the UK which
 
 ### <a href="https://cybercx.com.au/about-cybercx/cloudten/">CyberCX/Cloudten</a>
 
-<b>DevOps Engineer</b>
+<b>DevOps Engineer / Cloud Architect</b>
 
 [June 2016 - March 2020] 3yrs 9m
 
