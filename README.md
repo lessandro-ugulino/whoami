@@ -1,8 +1,9 @@
 #### Lessandro Z. Ugulino
 
-I bring forth a wide range of experience across cloud engineering, bringing forth more than 14 years of knowledge and expertise working within rather complex and technical capacities towards a common goal.
+I bring forth a wide range of experience across DevOps, Cloud Engineering and Cloud Solutions Architecture, bringing more than 14 years of knowledge and expertise working within rather complex and technical capacities towards a common goal.
 
-I have amassed a strong academic record where I am a CKS and CKA certified, Pro AWS Solutions Architect, Red Hat Certified Systems Administrator as well as MCSA, and ITIL v3 Certified Professional.
+I have amassed a strong academic record where I am a **CKA** and **CKS** certified, **Pro AWS Solutions Architect** and **Pro AWS Certified DevOps Engineer**, **Red Hat Certified Systems Administrator (RHCSA)** as well as **Azure Administrator** certified and **MCSA**, and **ITIL v3** Certified Professional.
+
 
 - Website: [lessandro.ugulino.com](https://lessandro.ugulino.com/)
 - Linkedin: [linkedin.com/in/lezampieri/](https://www.linkedin.com/in/lezampieri/)
