@@ -71,15 +71,15 @@ I have amassed a strong academic record where I am a **CKA** and **CKS** certifi
 
 ## Personal projects
 
-- <a href="https://github.com/lessandro-ugulino/py3_googleanalytics_exporter">Python3 - Exporter Google Analytics v4</a>
-- <a href="https://github.com/lessandro-ugulino/cluster-k8s-rpi">Cluster K8s on RPi</a>
-- <a href="https://github.com/lessandro-ugulino/grafana-prometheus-for-fargate">Ansible Automation: Grafana & Prometheus for AWS Fargate</a>
-- <a href="https://github.com/lessandro-ugulino/aws-fargate-jenkins">Ansible Automation: Jenkins on AWS Fargate</a>
-- <a href="https://github.com/lessandro-ugulino/backend-api-getBooks-automation">Ansible Automation: Backend API Get Books</a>
-- <a href="https://github.com/lessandro-ugulino/vagrant-k8s-ingress-nginx-automation">Ansible Automation: K8s Nginx Ingress</a>
-- <a href="https://github.com/lessandro-ugulino/k8s-nginx-ingress-wordpress">Terraform Automation: K8s Nginx Ingress Wordpress</a>
-- <a href="https://github.com/lessandro-ugulino/ec2-docker-swarm-automation">Ansible Automation: EC2 Docker Swarm</a>
-- <a href="https://github.com/lessandro-ugulino/vagrant-docker-swarm-automation">Ansible Automation: Vagrant Docker Swarm</a>
+- <a href="https://github.com/lessandro-ugulino/py3_googleanalytics_exporter" target="_blank" rel="noopener noreferrer">Python3 - Exporter Google Analytics v4</a>
+- <a href="https://github.com/lessandro-ugulino/cluster-k8s-rpi" target="_blank" rel="noopener noreferrer">Cluster K8s on RPi</a>
+- <a href="https://github.com/lessandro-ugulino/grafana-prometheus-for-fargate" target="_blank" rel="noopener noreferrer">Ansible Automation: Grafana & Prometheus for AWS Fargate</a>
+- <a href="https://github.com/lessandro-ugulino/aws-fargate-jenkins" target="_blank" rel="noopener noreferrer">Ansible Automation: Jenkins on AWS Fargate</a>
+- <a href="https://github.com/lessandro-ugulino/backend-api-getBooks-automation" target="_blank" rel="noopener noreferrer">Ansible Automation: Backend API Get Books</a>
+- <a href="https://github.com/lessandro-ugulino/vagrant-k8s-ingress-nginx-automation" target="_blank" rel="noopener noreferrer">Ansible Automation: K8s Nginx Ingress</a>
+- <a href="https://github.com/lessandro-ugulino/k8s-nginx-ingress-wordpress" target="_blank" rel="noopener noreferrer">Terraform Automation: K8s Nginx Ingress Wordpress</a>
+- <a href="https://github.com/lessandro-ugulino/ec2-docker-swarm-automation" target="_blank" rel="noopener noreferrer">Ansible Automation: EC2 Docker Swarm</a>
+- <a href="https://github.com/lessandro-ugulino/vagrant-docker-swarm-automation" target="_blank" rel="noopener noreferrer">Ansible Automation: Vagrant Docker Swarm</a>
 
 ## Hobbies
 
@@ -101,7 +101,7 @@ I have amassed a strong academic record where I am a **CKA** and **CKS** certifi
 - [Goldnet](#Goldnet)
 - [Dimep](#Dimep)
 
-### <a href="https://www.rackspace.com/en-au/">Rackspace</a>
+### <a href="https://www.rackspace.com/en-au/" target="_blank" rel="noopener noreferrer">Rackspace</a>
 
 <b>Sr. DevOps Engineer / Cloud Architect</b>
 
@@ -117,7 +117,7 @@ As an example, working for the customer in Dubai my responsibility was to design
 
 Another project I got a chance to work with was for one of the Rackspace customers who provide the best e-auction platforms where buyers and sellers of diverse goods & services, our sourcing platforms promise fair price discovery, bringing transparency and savings to the buyer.
 
-Due to sensitivity data, and the organization’s compliance objectives, the AWS RDS could be used. My responsibility was to design and deploy a solution to provide High Availability for PostgreSQL using the tools ETCD, Patroni and AWS.
+Due to sensitivity data, and the organization’s compliance objectives, the AWS RDS could not be used. My responsibility was to design and deploy a solution to provide High Availability for PostgreSQL using the tools ETCD, Patroni and AWS.
 
 **Example of the Project Design** -> https://github.com/lessandro-ugulino/whoami?tab=readme-ov-file#design-1
 
@@ -276,7 +276,7 @@ The customer provides best e-auction platforms where buyers and sellers of diver
 ![ci/cd](img/Postgres-HA.png)
 
 
-### <a href="https://www.cultureamp.com/">Culture Amp</a>
+### <a href="https://www.cultureamp.com/" target="_blank" rel="noopener noreferrer">Culture Amp</a>
 
 <b>Sr. DevOps Engineer</b>
 
@@ -293,7 +293,7 @@ In this portal, the engineers could launch new EC2 instances as well as AWS Lamb
 Apart from that, my responsibilities were evaluating new technologies, establishing best practices, optimizing cloud costs, and implementing security best practices. Also, I was leading the K8s project.
 
 
-### <a href="https://premier.ticketek.com.au">Ticketek</a>
+### <a href="https://premier.ticketek.com.au" target="_blank" rel="noopener noreferrer">Ticketek</a>
 
 <b>Senior SRE / DevOps</b>
 
@@ -306,7 +306,7 @@ I was responsible for ensuring the reliability, scalability, and performance of 
 I was part of a project to automate the whole production release in the UK which involved designing Continuous Integration (shared repository), Continuous Delivery (automating the software release process such as automated deployment, testing, and configuration processes) and Continuous Deployment (every change that passes automated tests is automatically deployed to production without manual intervention).
 
 
-### <a href="https://cybercx.com.au/about-cybercx/cloudten/">CyberCX/Cloudten</a>
+### <a href="https://cybercx.com.au/about-cybercx/cloudten/" target="_blank" rel="noopener noreferrer">CyberCX/Cloudten</a>
 
 <b>DevOps Engineer / Cloud Architect</b>
 
@@ -351,7 +351,7 @@ Also, one of my roles was leading a project involving cloud migration and collab
     - AWS Transit Gateway (TGW Attachments and TGW Route tables)
     - AWS CloudFormation
 
-### <a href="https://www.2s.com.br/">2S</a>
+### <a href="https://www.2s.com.br/" target="_blank" rel="noopener noreferrer">2S</a>
 
 <b>Senior Consultant</b>
 
@@ -364,7 +364,7 @@ Responsible for:
 - Writing, updating, and maintaining technical tutorials;
 - Repairing and replacing peripheral equipment such as terminals, printers, and modems;
 
-### <a href="http://www.softcorp.com.br/">Softcorp</a>
+### <a href="http://www.softcorp.com.br/" target="_blank" rel="noopener noreferrer">Softcorp</a>
 
 <b>Systems Engineer</b>
 
@@ -376,7 +376,7 @@ Installation, configuration, and deployment of SCCM 2007 and SCCM 2012 for imagi
 - Develop as well as implement application test plans, including both integration and full system test plan;
 - Implemented solution to eliminate duplicate SCCM GUID's thus creating client stability and integrity;
 
-### <a href="http://www.goldnet.com.br/">Goldnet</a>
+### <a href="http://www.goldnet.com.br/" target="_blank" rel="noopener noreferrer">Goldnet</a>
 
 <b>Support Analyst</b>
 
@@ -391,7 +391,7 @@ Performed first level problem determination using automated Helpdesk software to
 - Repairing and replacing peripheral equipment such as terminals, printers and modems;
 - Installing and downloading appropriate software;
 
-### <a href="https://www.dimep.com.br/">Dimep</a>
+### <a href="https://www.dimep.com.br/" target="_blank" rel="noopener noreferrer">Dimep</a>
 
 <b>Jr. Support Analyst</b>
 
