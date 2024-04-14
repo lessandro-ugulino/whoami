@@ -23,7 +23,7 @@ I have amassed a strong academic record where I am a **CKA** and **CKS** certifi
   - [Rackspace](#rackspace)
   - [Culture Amp](#culture-amp)
   - [Ticketek](#Ticketek)
-  - [Cloudten](#C10)
+  - [CyberCx/Cloudten](#cybercxcloudten)
   - [2S](#2S)
   - [Softcorp](#Softcorp)
   - [Goldnet](#Goldnet)
