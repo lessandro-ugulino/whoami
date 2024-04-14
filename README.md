@@ -288,6 +288,10 @@ During my time working for Culture AMP, we designed and deployed a self-service 
 
 In this portal, the engineers could launch new EC2 instances as well as AWS Lambdas using a drop-down list.
 
+**Demo Self-Service Portal:**
+
+[![demo self-service](https://img.youtube.com/vi/euSFzL4MQg8/0.jpg)](https://www.youtube.com/watch?v=euSFzL4MQg8)
+
 **Here you can see an example of the DevOps tools available on this portal** -> https://github.com/lessandro-ugulino/devops-tools?tab=readme-ov-file#tools
 
 Apart from that, my responsibilities were evaluating new technologies, establishing best practices, optimizing cloud costs, and implementing security best practices. Also, I was leading the K8s project.
