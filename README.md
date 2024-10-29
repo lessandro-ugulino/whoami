@@ -71,6 +71,7 @@ I have amassed a strong academic record where I am a **CKA** and **CKS** certifi
 
 ## Personal projects
 
+- <a href="https://gitlab.com/lessandro_ugulino/project_coffee-portal" target="_blank" rel="noopener noreferrer">CI/CD: GitLab pipeline - Coffee Portal</a>
 - <a href="https://github.com/lessandro-ugulino/py3_googleanalytics_exporter" target="_blank" rel="noopener noreferrer">Python3 - Exporter Google Analytics v4</a>
 - <a href="https://github.com/lessandro-ugulino/cluster-k8s-rpi" target="_blank" rel="noopener noreferrer">Cluster K8s on RPi</a>
 - <a href="https://github.com/lessandro-ugulino/grafana-prometheus-for-fargate" target="_blank" rel="noopener noreferrer">Ansible Automation: Grafana & Prometheus for AWS Fargate</a>
